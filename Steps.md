@@ -12,6 +12,10 @@
 <img src="https://media.discordapp.net/attachments/735256504143183893/791432644390944779/actEJPBhqQAAAAASUVORK5CYII.png?width=451&height=182" alt="Type Run"> <img src="https://media.discordapp.net/attachments/735256504143183893/791432718026145802/ldRcAAAAASUVORK5CYII.png?width=312&height=278">
 
 > After doing all of this , search "Windows PowerShell (Admin)" in search bar, and open it,
-once open copy all the code written in [windows-bash.cmd](https://github.com/yung3zekiel/Windows-Bash-Download/commit/e5c15a23b816819764d17c2893b0e101ee0d1d76 "Click Here") and paste it , run the code.
+once open copy all the code written in [windows-bash.cmd](https://github.com/yung3zekiel/Windows-Bash-Download/commit/e5c15a23b816819764d17c2893b0e101ee0d1d76 "Click Here") and paste it , run the `code.`
 
+<img src="https://i1.wp.com/itsfoss.com/wp-content/uploads/2016/08/Powershell-Ubuntu-install-2.jpeg?w=799&ssl=1"> 
 
+It will ask you to reboot your PC, type `y` or reboot it manually.
+
+> <b><u> Last Step </u></b> :
