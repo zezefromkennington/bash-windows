@@ -18,4 +18,8 @@ once open copy all the code written in [windows-bash.cmd](https://github.com/yun
 
 It will ask you to reboot your PC, type `y` or reboot it manually.
 
-> <b><u> Last Step </u></b> :
+> <b><u> Last Step </u></b> : 
+
+`You need to have a special command prompt for Linux , so go Windows Store application and search "Ubuntu" , then download it.`
+
+<img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2016/08/install-ubuntu-windows-10-linux-subsystem-4.jpeg?w=800&ssl=1">
