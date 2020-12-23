@@ -11,4 +11,7 @@
 
 <img src="https://media.discordapp.net/attachments/735256504143183893/791432644390944779/actEJPBhqQAAAAASUVORK5CYII.png?width=451&height=182" alt="Type Run"> <img src="https://media.discordapp.net/attachments/735256504143183893/791432718026145802/ldRcAAAAASUVORK5CYII.png?width=312&height=278">
 
-> 
+> After doing all of this , search "Windows PowerShell (Admin)" in search bar, and open it,
+once open copy all the code written in [windows-bash.cmd](https://github.com/yung3zekiel/Windows-Bash-Download/commit/e5c15a23b816819764d17c2893b0e101ee0d1d76 "Click Here") and paste it , run the code.
+
+
