@@ -2,7 +2,7 @@
 
 ## Supported Windows Versions
 
-Here you'll have all stuffs and versions where you can enable Bash Linux on.
+> Here you'll have all stuffs and versions where you can enable Bash Linux on.
 
 | Version  | Supported          |
 | -------- | ------------------ |
@@ -11,4 +11,5 @@ Here you'll have all stuffs and versions where you can enable Bash Linux on.
 
 ## In Case of Problems
 
-If any problems ? Contact me on discord : `sm#0242` .
+> If any problems ? Contact me on discord : `sm#0242` .
+ 
