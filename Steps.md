@@ -5,7 +5,7 @@
 
 > Then Choose the "Run" case it will open a little window , write <u>"control"<u/> in it and hit OK ;
 
-<img src="https://camo.githubusercontent.com/d1303caa790a2610b04bcb50ffcde7953ff3712955b17c6799c30860129ba248/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3733353235363530343134333138333839332f3739313433323731383032363134353830322f6c64526341414141415355564f524b35435949492e706e673f77696474683d333132266865696768743d323738" alt="Type Run"> <img src=https://media.discordapp.net/attachments/782978845601955862/793493008410083328/unknown.png?width=333&height=182" alt="Type Run"> 
+<img src="https://media.discordapp.net/attachments/782978845601955862/793488645306449980/unknown.png?width=158&height=154" alt="Type Run"> 
 
 > Go to "Programms Settings" & then choose the marked thing on the picture , select "Virtual Machine Plateform" and "Windows Subystem for Linux" and press OK ;
 
