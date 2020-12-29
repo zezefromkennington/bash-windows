@@ -23,3 +23,7 @@ It will ask you to reboot your PC, type `y` or reboot it manually.
 `You need to have a special command prompt for Linux , so go Windows Store application and search "Ubuntu" , then download it.`
 
 <img src="https://i2.wp.com/itsfoss.com/wp-content/uploads/2016/08/install-ubuntu-windows-10-linux-subsystem-4.jpeg?w=800&ssl=1">
+
+> Once you will have download <b><u>Ubuntu</u></b> you will have all Linux Scripts and Commands Prompts for you , Enjoy.  
+
+<img src="https://www.howtogeek.com/wp-content/uploads/2018/03/img_5a985c6c9297d.png" alt="Exemple of what you'll see guys">
