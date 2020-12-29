@@ -11,4 +11,4 @@ Here you'll have all stuffs and versions where you can enable Bash Linux on.
 
 ## In Case of Problems
 
-If any problems ? Contact me on discord : sm#0242.
+If any problems ? Contact me on discord : `sm#0242` .
