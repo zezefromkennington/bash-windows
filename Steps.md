@@ -1,11 +1,11 @@
 
 
 > First step to install Bash Linux on your Windows Computer , open the executor task by right clicking on the <b> Windows Logo </b> ;
-<img src="https://media.discordapp.net/attachments/735256504143183893/791432221949034536/wPPdUeJeyQmwAAAABJRU5ErkJggg.png?width=299&height=32" alt="Windows Logo">
+<img src="https://media.discordapp.net/attachments/782978845601955862/793488158729830430/unknown.png?width=301&height=34" alt="Windows Logo">
 
 > Then Choose the "Run" case it will open a little window , write <u>"control"<u/> in it and hit OK ;
 
-<img src="https://media.discordapp.net/attachments/735256504143183893/791432398901608468/Uj8gAAAABJRU5ErkJggg.png?width=210&height=189" alt="Type Run"> <img src="https://media.discordapp.net/attachments/735256504143183893/791432523716362250/8Aio0j43DQHsYAAAAASUVORK5CYII.png?width=337&height=184" alt="Type Run"> 
+<img src="https://camo.githubusercontent.com/d1303caa790a2610b04bcb50ffcde7953ff3712955b17c6799c30860129ba248/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3733353235363530343134333138333839332f3739313433323731383032363134353830322f6c64526341414141415355564f524b35435949492e706e673f77696474683d333132266865696768743d323738" alt="Type Run"> <img src=https://media.discordapp.net/attachments/782978845601955862/793493008410083328/unknown.png?width=333&height=182" alt="Type Run"> 
 
 > Go to "Programms Settings" & then choose the marked thing on the picture , select "Virtual Machine Plateform" and "Windows Subystem for Linux" and press OK ;
 
