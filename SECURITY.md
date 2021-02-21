@@ -11,5 +11,5 @@
 
 ## In Case of Problems
 
-> If any problems ? Contact me on discord : `sm#0242` .
+> If any problems ? Contact me on discord : `sm#0212` .
  
